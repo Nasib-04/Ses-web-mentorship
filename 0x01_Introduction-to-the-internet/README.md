@@ -1,6 +1,6 @@
 # My first lines of Code
 
-> [!Motivation]
+>  [!MOTIVATION]
 > Every journey starts with a single step 😊
 >
 > I am so excited to have this opportunity to code again after years and try It again,
