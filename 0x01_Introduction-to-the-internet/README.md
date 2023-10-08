@@ -9,11 +9,10 @@
  
  I"ll try to do my best(multitasking with my schoolwork) to learn it the best way I can,I am expecting to learn;
  
-    1.  HTML
-      
+    1.  HTMl  
     2.  CSS
     3.  Javascript
-   i am already learning how to use  [Visual studio code](https://code.visualstudio.com/)and this github where i will be posting my work.
+   I am already learning how to use  [Visual studio code](https://code.visualstudio.com/)and this github where i will be posting my work.
    
    Let's get started 😉
 
